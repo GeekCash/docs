@@ -1,0 +1,9 @@
+[book]
+authors = ["GeekCash Team"]
+language = "en"
+multilingual = false
+src = "src"
+title = "GeekCash 2.0"
+description = "The GeekCash 2.0 documentation"
+[output.html]
+default-theme = "navy"
